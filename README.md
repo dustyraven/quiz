@@ -13,6 +13,11 @@ To run execute:
 **or**  
 `php quiz.php '{"userId":1,"answerId":4}'` to set an answer and to get the next question.
 
+## Cron
+
+For a weekly rewards a cron should be set.  
+See instructions in file `cron.php`  
+
 ## Test
 
 Execute `./test.sh`
